@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\ReflectionHomework\bin\Debug\net8.0-windows\ReflectionHomework.exe
+C:\Users\Lenovo\Desktop\ReflectionHomework\bin\Debug\net8.0-windows\ReflectionHomework.deps.json
+C:\Users\Lenovo\Desktop\ReflectionHomework\bin\Debug\net8.0-windows\ReflectionHomework.runtimeconfig.json
+C:\Users\Lenovo\Desktop\ReflectionHomework\bin\Debug\net8.0-windows\ReflectionHomework.dll
+C:\Users\Lenovo\Desktop\ReflectionHomework\bin\Debug\net8.0-windows\ReflectionHomework.pdb
+C:\Users\Lenovo\Desktop\ReflectionHomework\obj\Debug\net8.0-windows\ReflectionHomework.Form1.resources
+C:\Users\Lenovo\Desktop\ReflectionHomework\obj\Debug\net8.0-windows\ReflectionHomework.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\ReflectionHomework\obj\Debug\net8.0-windows\ReflectionHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\ReflectionHomework\obj\Debug\net8.0-windows\ReflectionHomework.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\ReflectionHomework\obj\Debug\net8.0-windows\ReflectionHomework.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\ReflectionHomework\obj\Debug\net8.0-windows\ReflectionHomework.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ReflectionHomework\obj\Debug\net8.0-windows\ReflectionHomework.dll
+C:\Users\Lenovo\Desktop\ReflectionHomework\obj\Debug\net8.0-windows\refint\ReflectionHomework.dll
+C:\Users\Lenovo\Desktop\ReflectionHomework\obj\Debug\net8.0-windows\ReflectionHomework.pdb
+C:\Users\Lenovo\Desktop\ReflectionHomework\obj\Debug\net8.0-windows\ReflectionHomework.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\ReflectionHomework\obj\Debug\net8.0-windows\ref\ReflectionHomework.dll

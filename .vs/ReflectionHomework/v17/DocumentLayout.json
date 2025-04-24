@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC933B8D-5BAB-4324-8E01-3C8502EB4122}|..\\ReflectionHomework.DosyaYap\u0131s\u0131\\ReflectionHomework.DosyaYap\u0131s\u0131.csproj|c:\\users\\lenovo\\desktop\\reflectionhomework.dosyayap\u0131s\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7BEC5E-951A-4983-935B-FAE4E4AE11E0}|ReflectionHomework.csproj|c:\\users\\lenovo\\desktop\\reflectionhomework\\interfaces\\iodeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7BEC5E-951A-4983-935B-FAE4E4AE11E0}|ReflectionHomework.csproj|solutionrelative:interfaces\\iodeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC933B8D-5BAB-4324-8E01-3C8502EB4122}|..\\ReflectionHomework.DosyaYap\u0131s\u0131\\ReflectionHomework.DosyaYap\u0131s\u0131.csproj|c:\\users\\lenovo\\desktop\\reflectionhomework.dosyayap\u0131s\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7BEC5E-951A-4983-935B-FAE4E4AE11E0}|ReflectionHomework.csproj|c:\\users\\lenovo\\desktop\\reflectionhomework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7BEC5E-951A-4983-935B-FAE4E4AE11E0}|ReflectionHomework.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7BEC5E-951A-4983-935B-FAE4E4AE11E0}|ReflectionHomework.csproj|c:\\users\\lenovo\\desktop\\reflectionhomework\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7BEC5E-951A-4983-935B-FAE4E4AE11E0}|ReflectionHomework.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC933B8D-5BAB-4324-8E01-3C8502EB4122}|..\\ReflectionHomework.DosyaYap\u0131s\u0131\\ReflectionHomework.DosyaYap\u0131s\u0131.csproj|c:\\users\\lenovo\\desktop\\reflectionhomework.dosyayap\u0131s\u0131\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC933B8D-5BAB-4324-8E01-3C8502EB4122}|..\\ReflectionHomework.DosyaYap\u0131s\u0131\\ReflectionHomework.DosyaYap\u0131s\u0131.csproj|c:\\users\\lenovo\\desktop\\reflectionhomework.dosyayap\u0131s\u0131\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7BEC5E-951A-4983-935B-FAE4E4AE11E0}|ReflectionHomework.csproj|c:\\users\\lenovo\\desktop\\reflectionhomework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E7BEC5E-951A-4983-935B-FAE4E4AE11E0}|ReflectionHomework.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7BEC5E-951A-4983-935B-FAE4E4AE11E0}|ReflectionHomework.csproj|c:\\users\\lenovo\\desktop\\reflectionhomework\\classes\\kredi_kart\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7BEC5E-951A-4983-935B-FAE4E4AE11E0}|ReflectionHomework.csproj|solutionrelative:classes\\kredi_kart\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7BEC5E-951A-4983-935B-FAE4E4AE11E0}|ReflectionHomework.csproj|c:\\users\\lenovo\\desktop\\reflectionhomework\\classes\\havale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7BEC5E-951A-4983-935B-FAE4E4AE11E0}|ReflectionHomework.csproj|solutionrelative:classes\\havale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7BEC5E-951A-4983-935B-FAE4E4AE11E0}|ReflectionHomework.csproj|c:\\users\\lenovo\\desktop\\reflectionhomework\\classes\\kap\u0131da \u00F6deme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7BEC5E-951A-4983-935B-FAE4E4AE11E0}|ReflectionHomework.csproj|solutionrelative:classes\\kap\u0131da \u00F6deme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7BEC5E-951A-4983-935B-FAE4E4AE11E0}|ReflectionHomework.csproj|c:\\users\\lenovo\\desktop\\reflectionhomework\\classes\\eft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7BEC5E-951A-4983-935B-FAE4E4AE11E0}|ReflectionHomework.csproj|solutionrelative:classes\\eft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7BEC5E-951A-4983-935B-FAE4E4AE11E0}|ReflectionHomework.csproj|c:\\users\\lenovo\\desktop\\reflectionhomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7BEC5E-951A-4983-935B-FAE4E4AE11E0}|ReflectionHomework.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7BEC5E-951A-4983-935B-FAE4E4AE11E0}|ReflectionHomework.csproj|c:\\users\\lenovo\\desktop\\reflectionhomework\\classes\\odemeyap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7BEC5E-951A-4983-935B-FAE4E4AE11E0}|ReflectionHomework.csproj|solutionrelative:classes\\odemeyap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework.DosyaYap\u0131s\u0131\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\ReflectionHomework.DosyaYap\u0131s\u0131\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework.DosyaYap\u0131s\u0131\\Form1.cs",
+              "RelativeToolTip": "..\\ReflectionHomework.DosyaYap\u0131s\u0131\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:21:35.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework.DosyaYap\u0131s\u0131\\Form1.resx",
+              "RelativeDocumentMoniker": "..\\ReflectionHomework.DosyaYap\u0131s\u0131\\Form1.resx",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework.DosyaYap\u0131s\u0131\\Form1.resx",
+              "RelativeToolTip": "..\\ReflectionHomework.DosyaYap\u0131s\u0131\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-23T23:18:12.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework.DosyaYap\u0131s\u0131\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\ReflectionHomework.DosyaYap\u0131s\u0131\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework.DosyaYap\u0131s\u0131\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\ReflectionHomework.DosyaYap\u0131s\u0131\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:13:06.965Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:13:35.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwDUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T21:23:03.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework.DosyaYap\u0131s\u0131\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\ReflectionHomework.DosyaYap\u0131s\u0131\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework.DosyaYap\u0131s\u0131\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\ReflectionHomework.DosyaYap\u0131s\u0131\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:18:10.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Kredi_Kart\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework\\Classes\\Kredi_Kart\u0131.cs",
+              "RelativeDocumentMoniker": "Classes\\Kredi_Kart\u0131.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework\\Classes\\Kredi_Kart\u0131.cs",
+              "RelativeToolTip": "Classes\\Kredi_Kart\u0131.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:02:14.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Havale.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework\\Classes\\Havale.cs",
+              "RelativeDocumentMoniker": "Classes\\Havale.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework\\Classes\\Havale.cs",
+              "RelativeToolTip": "Classes\\Havale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:01:57.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOdeme.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework\\Interfaces\\IOdeme.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IOdeme.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework\\Interfaces\\IOdeme.cs",
+              "RelativeToolTip": "Interfaces\\IOdeme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T21:27:26.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Kap\u0131da \u00D6deme.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework\\Classes\\Kap\u0131da \u00D6deme.cs",
+              "RelativeDocumentMoniker": "Classes\\Kap\u0131da \u00D6deme.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework\\Classes\\Kap\u0131da \u00D6deme.cs",
+              "RelativeToolTip": "Classes\\Kap\u0131da \u00D6deme.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:59:44.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EFT.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework\\Classes\\EFT.cs",
+              "RelativeDocumentMoniker": "Classes\\EFT.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework\\Classes\\EFT.cs",
+              "RelativeToolTip": "Classes\\EFT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:01:48.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OdemeYap.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework\\Classes\\OdemeYap.cs",
+              "RelativeDocumentMoniker": "Classes\\OdemeYap.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework\\Classes\\OdemeYap.cs",
+              "RelativeToolTip": "Classes\\OdemeYap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T21:38:29.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T21:04:34.526Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ReflectionHomework\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T21:34:49.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 590,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
